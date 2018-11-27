@@ -1,0 +1,26 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Sebastian Zuloaga Web Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/sebzuloaga/portfoliosz.git"
+  },
+  "keywords": [
+    "Portfolio"
+  ],
+  "author": "Sebastian Zuloaga",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-update": "0.0.2",
+    "scss": "^0.2.4"
+  }
+}

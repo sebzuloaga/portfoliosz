@@ -1,2 +1,0 @@
-# portfoliosz
-Portfolio - Sebastian Zuloaga
